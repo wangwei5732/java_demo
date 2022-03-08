@@ -7,6 +7,7 @@ import java.util.function.UnaryOperator;
 
 /**
  * lambda基本用法
+ * 参考资料：https://mp.weixin.qq.com/s/DiaDtt0nW38RKUqQSNKj4Q
  */
 public class LambdaDemo01 {
     /**
